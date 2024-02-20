@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PiterBridges</string>
+    <string name="yandex_key">6a71e44e-1d6c-4694-b429-42f065c2dafc</string>
+    <string name="open_map">open map</string>
+    <string name="the_most_spb">The most SPB</string>
+    <string name="data_not_download">Data not download</string>
+    <string name="open_list_bridge">open list bridge</string>
+    <string name="repeat_download">repeat download</string>
+    <string name="description">Описание</string>
+    <string name="title">Название</string>
+    <string name="time">Время</string>
+</resources>
